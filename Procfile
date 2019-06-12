@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 AulaMobilePWA/
+web: vendor/bin/heroku-php-apache2
