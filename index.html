@@ -121,6 +121,7 @@
                     console.log('Service Worker Registrado.')
 
                     serviceWorkerRegistration = reg;
+                    initialiseUI();
                 });
             });
         }else{
