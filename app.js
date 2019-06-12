@@ -120,7 +120,7 @@ Experiencia de Notificação
 #############################*/
 let isSubscribed = false;
  
-const applicationServerPublicKey = 'BL23DnPgTy5iB5s0TVLT4SwKWLE9Dr9fzhBQMl7bhBg_1ETSe3mZUV6N0oR-uenw1sZPMF3u9PhbFa8W4NCv0-E';
+const applicationServerPublicKey = 'BEfbMsXfqlLBjlYithNi7R7pGi52UKE8NsYtDGV8atfsonSs8IdLFYgG-1cJBaaO7fRYHEhYhvTc8wHwuXzGmbA';
 const pushButton = document.getElementById('butPush');
  
  
